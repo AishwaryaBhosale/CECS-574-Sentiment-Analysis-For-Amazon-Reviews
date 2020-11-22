@@ -12,3 +12,7 @@
 
 ## Reference
 * https://mickzhang.com/amazon-reviews-using-sentiment-analysis/
+
+## Contributers
+* Aishwarya Bhosale
+* Apoorva Uppala
